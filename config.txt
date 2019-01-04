@@ -1,6 +1,6 @@
 token=process.env.token
-owner=354716386716811264
+owner=440860123968176148
 prefix==
-game=Alpha Bots!
+game=gg
 stayinchannel=true
 songinstatus=true
